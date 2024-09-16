@@ -71,6 +71,7 @@
 
 .menu1 {
     margin-left: 45px;
+    margin-top: 20px;
 }
 
 .markv {
@@ -84,6 +85,32 @@
     display: inline-block;
 
 }
+.markx {
+    border: 1px;
+    height: 15px;
+    width: 15px;
+    border-color: red;
+    border-style: solid;
+    border-radius: 50%;
+    margin-left: 45px;
+    display: inline-block;
+
+}
+.elementi {
+    margin-top: 10px;
+}
+#viola {
+    background-color: blueviolet;
+    border-color: blueviolet;
+}
+#verde{
+    background-color: green;
+    border-color: green;
+}
+#arancione {
+    background-color: chocolate;
+    border-color: chocolate;
+}
 
 
 .colorv {
@@ -94,6 +121,15 @@
     margin-left: 15%;
     
 }
+.colorx {
+    color: red;
+    width: 1px;
+    height: 1px;
+    line-height: 15px;
+    margin-left: 15%;
+    
+}
+
 
 .tasto{
     display: inline-block;
