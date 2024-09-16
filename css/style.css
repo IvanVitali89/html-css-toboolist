@@ -17,12 +17,13 @@
 
 .list {
     background-color: white;
-    margin-left: 20px;
-    margin: 30px;
+    margin-left: 250px;
+    margin-top: 30px;
     padding-top: 15px;
     padding-bottom: 15px;
     border-radius: 5px;
     margin-bottom: 1px;
+    margin-right: 250px;
 }
 
 .box {
@@ -60,18 +61,19 @@
 
 .list2 {
     background-color: white;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 250px;
+    margin-right: 250px;
     padding-top: 15px;
     padding-bottom: 15px;
     border-radius: 5px;
-    height: 600px;
+    height: 450px;
    
 }
 
 .menu1 {
     margin-left: 45px;
     margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 .markv {
@@ -98,10 +100,15 @@
 }
 .elementi {
     margin-top: 10px;
+    
 }
 #viola {
     background-color: blueviolet;
     border-color: blueviolet;
+}
+#verdechiaro {
+    background-color: greenyellow;
+    border-color: greenyellow;
 }
 #verde{
     background-color: green;
@@ -110,6 +117,10 @@
 #arancione {
     background-color: chocolate;
     border-color: chocolate;
+}
+#rosa {
+background-color: rgb(255, 0, 170);
+border-color: rgb(255, 0, 170);
 }
 
 
