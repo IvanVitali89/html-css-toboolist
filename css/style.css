@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.img {
+    padding-left: 10px;
+    background-color: white;
+}
+
+.main {
+    background-color: rgb(202, 224, 235);
+
+
+}
+
+.list {
+    background-color: white;
+    margin-left: 20px;
+    margin: 30px;
+}
